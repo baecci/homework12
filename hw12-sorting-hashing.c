@@ -3,6 +3,7 @@
  *
  *  Homework 12: Sorting & Hashing
  *  Department of Computer Science at Chungbuk National University
+ *
  */
 
 #include <stdio.h>
